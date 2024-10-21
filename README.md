@@ -15,6 +15,6 @@ I'm a self-taught web developer with a passion for building interactive and user
 
 - [LinkedIn](https://www.linkedin.com/in/adrian-pal%C4%8Di%C4%87-10a9b1301/)
 - [Instagram](https://www.instagram.com/adrian_palcic/)
--[Portfolio] - In progress...
+ -[Portfolio](In progress...)
 
 Feel free to check out my [repositories](https://github.com/AdrianPalcic?tab=repositories) and connect with me!
