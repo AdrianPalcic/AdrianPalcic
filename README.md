@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Adrian Palcic 👋
 
-<!--
-**AdrianPalcic/AdrianPalcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught web developer with a passion for building interactive and user-friendly web applications. I've completed three certifications through FreeCodeCamp, specializing in front-end development, React, and JavaScript. Currently, I'm expanding my knowledge by building real-world projects and contributing to my GitHub repository. I'm eager to bring my skills to a professional team where I can grow and contribute.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🟦 JavaScript
+- 🎨 CSS
+- 🌐 HTML
+- ⚛️ React
+- 🌀 Zustand
+- 🔥 Firebase
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/adrian-pal%C4%8Di%C4%87-10a9b1301/)
+- [Instagram](https://www.instagram.com/adrian_palcic/)
+-[Portfolio] - In progress...
+
+Feel free to check out my [repositories](https://github.com/AdrianPalcic?tab=repositories) and connect with me!
