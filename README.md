@@ -5,9 +5,9 @@ I'm a self-taught web developer with a passion for building interactive and user
 ## 🚀 Technologies & Tools I Use
 
 - 🟦 JavaScript
-- 🎨 CSS        -SCSS
+- 🎨 CSS        /SCSS/Tailwind CSS
 - 🌐 HTML       
-- ⚛️ React
+- ⚛️ React + Chakra
 - 🌀 Zustand
 - 🔥 Firebase
 
