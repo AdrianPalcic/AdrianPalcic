@@ -6,7 +6,7 @@ I'm a self-taught web developer with a passion for building interactive and user
 
 - 🟦 JavaScript
 - 🎨 CSS        -SCSS
-- 🌐 HTML       -![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
+- 🌐 HTML       
 - ⚛️ React
 - 🌀 Zustand
 - 🔥 Firebase
